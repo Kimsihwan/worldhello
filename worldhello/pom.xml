@@ -177,7 +177,7 @@
 						<groupId>org.codehaus.mojo</groupId>
 						<artifactId>tomcat-maven-plugin</artifactId>
 						<configuration>
-							<url>http://192.168.56.102:8080/manager/text</url>
+							<url>http://192.168.56.102:9999/manager/text</url>
 							<path>/helloword</path>
 							<username>admin</username>
 							<password>admin</password>
